@@ -1,0 +1,9 @@
+inherit gnome2
+
+NAME="gnome-mahjongg"
+VERSION=3.8.0
+RELEASE=1
+CATEGORY="Games"
+SUMMARY="GNOME Mahjongg game"
+DESCRIPTION="Mahjongg is a simple pattern recognition game. You score points
+by matching identical tiles."
